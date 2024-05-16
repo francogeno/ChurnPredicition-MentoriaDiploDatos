@@ -1,7 +1,8 @@
 # churn-prediction - Mentoria Data Science Famaf
-Trabajo de mentorias para la diplomatura de ciencia de datos y sus aplicaciones dictada por la Famaf - UNC.
+Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - Famaf - UNC.
 
-El siguiente trabajo consistirá en analizar como se comportan los usuarios de una empresa de telefonia y cuales son las consideraciones que mas tienen en cuenta a la hora de abandonar el servicio. 
+Objetivo del Proyecto:
+El objetivo de este proyecto es desarrollar un modelo de machine learning que pueda predecir la probabilidad de que un cliente de una compañía de telecomunicaciones abandone el servicio (churn). Utilizando un conjunto de datos detallado, el modelo identificará patrones y factores clave que contribuyen al churn, permitiendo a la empresa implementar estrategias proactivas para retener a sus clientes.
 
 Los alumnos deberán dividir el trabajo en 3 instancias:
 1- Analisis y visualizacion de datos: Será crucial entender con que tipos de datos vamos a trabajar y como se comportan los mismos. 
